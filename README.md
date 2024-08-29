@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Imran Majeed
-imajeed1@gmail.com • (817) 366 4862
+imajeed1@gmail.com • (817) 366 4862<br>
 Dallas Fort Worth, TX • [LinkedIn](https://www.linkedin.com/in/imajeed/)
 ---
 **Testing & Configuration Management**     
