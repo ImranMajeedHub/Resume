@@ -1,11 +1,9 @@
 ## Hi there 👋
 # Imran Majeed
+imajeed1@gmail.com • (817) 366 4862
+Dallas Fort Worth, TX • [LinkedIn](https://www.linkedin.com/in/imajeed/)
 ___
 **Testing & Configuration Management**     
-___
-imajeed1@gmail.com • (817) 366 4862
-___
-Dallas Fort Worth, TX • [LinkedIn](https://www.linkedin.com/in/imajeed/)
 ---
 Accomplished and results-driven professional with experience in managing test environments and deploying robust application testing strategies in critical sectors such as transportation, energy, and healthcare. Proven success in spearheading multiple facets of system testing, including integration, user acceptance, and compliance testing, while ensuring high-quality deliverables. Excelled in configuration management, overseeing software upgrades and system enhancements to bolster performance and reliability. Proficient in leading EDI projects, enhancing data interchange processes, and driving system upgrades and migrations. Instrumental in directing diverse teams, both onshore and offshore, in rigorous testing protocols and effective defect resolution, underscoring a commitment to excellence and operational integrity in testing and configuration practices.
 
